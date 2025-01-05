@@ -33,4 +33,26 @@
     python3 -m venv myenv
    source myenv/bin/activate
 
+3. **Install Dependencies:**
+   ```sh
+   pip install -r requirements.txt
+   sudo apt-get install golang
+   go install github.com/hahwul/dalfox/v2@latest
+   
+### Running the Scanner   
+
+**Execute the Script:**
+```sh
+python3 ashik.py -u urls.txt --generate-pdf
+
+### Updating Tools
+To update the integrated tools to their latest versions, run:
+```sh
+python3 ashik.py --update-tools
+
+
+
+
+    
+
    
