@@ -24,5 +24,5 @@
 
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/yourusername/ashik-vulnerability-scanner.git
-   cd ashik-vulnerability-scanner
+   git clone https://github.com/fathiashik/ASHIK.git
+   
