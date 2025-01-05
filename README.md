@@ -25,4 +25,12 @@
 1. **Clone the Repository**:
    ```sh
    git clone https://github.com/fathiashik/ASHIK.git
+   cd ASHIK
+   chmod +xashik.py
+
+2. **Set up Virtual Environment:**
+    ```sh 
+    python3 -m venv myenv
+   source myenv/bin/activate
+
    
