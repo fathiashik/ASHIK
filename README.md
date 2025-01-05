@@ -42,13 +42,9 @@
 ### Running the Scanner   
 
 **Execute the Script:**
-```sh
-python3 ashik.py -u urls.txt --generate-pdf
+   ```sh
+   python3 ashik.py -u urls.txt --generate-pdf
 
-### Updating Tools
-To update the integrated tools to their latest versions, run:
-```sh
-python3 ashik.py --update-tools
 
 
 
